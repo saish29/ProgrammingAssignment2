@@ -64,9 +64,5 @@ solveCache <- function(x, ...) {
   m
 }
 
-## Calling solveCache function
 
-solveCache <- function(x, ...) {
-  ## Return a matrix that is the inverse of 'x'
-}
 
